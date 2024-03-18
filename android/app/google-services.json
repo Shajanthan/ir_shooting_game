@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398562529511",
+    "project_id": "ir-shootinggame",
+    "storage_bucket": "ir-shootinggame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398562529511:android:58e81b3553ab166ffc5242",
+        "android_client_info": {
+          "package_name": "com.example.ir_shooting_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtI6DSRNr4_Up7cLbGo0mvU9oJjoA_sXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
